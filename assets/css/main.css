@@ -1843,7 +1843,7 @@ input, select, textarea {
 	}
 
 		ul.divided li {
-			border-top: solid 1px #d2d7dc;
+			border-top: solid 1px #ffffff;
 			padding-top: 2em;
 			margin-top: 2em;
 			padding-left: 0;
@@ -1869,7 +1869,7 @@ input, select, textarea {
 			ul.icons li:before {
 				display: inline-block;
 				color: #000000;
-				background: #61666b;
+				background: #ffffff;
 				width: 2.5em;
 				height: 2.5em;
 				border-radius: 0.35em;
@@ -1887,7 +1887,7 @@ input, select, textarea {
 
 		ul.menu li {
 			display: inline-block;
-			border-left: solid 1px #d2d7dc;
+			border-left: solid 1px #ffffff;
 			padding-left: 1em;
 			margin-left: 1em;
 		}
@@ -1922,8 +1922,8 @@ input, select, textarea {
 		transition: background-color 0.25s ease-in-out;
 		-webkit-appearance: none;
 		display: block;
-		background: #f9fbfe;
-		border: solid 1px #d2d7dc;
+		background: #ffffff;
+		border: solid 1px #ffffff;
 		border-radius: 0.35em;
 		width: 100%;
 		line-height: 1.5em;
@@ -1943,19 +1943,19 @@ input, select, textarea {
 	}
 
 	form ::-webkit-input-placeholder {
-		color: #555 !important;
+		color: #ffffff !important;
 	}
 
 	form :-moz-placeholder {
-		color: #555 !important;
+		color: #ffffff !important;
 	}
 
 	form ::-moz-placeholder {
-		color: #555 !important;
+		color: #ffffff !important;
 	}
 
 	form :-ms-input-placeholder {
-		color: #555 !important;
+		color: #ffffff !important;
 	}
 
 	form ::-moz-focus-inner {
@@ -1973,11 +1973,11 @@ input, select, textarea {
 		}
 
 			table.default tbody tr {
-				border-top: solid 1px #D2D7DC;
+				border-top: solid 1px #ffffff;
 			}
 
 				table.default tbody tr:nth-child(2n+1) {
-					background: #f9fbfe;
+					background: #ffffff;
 				}
 
 			table.default td {
@@ -1991,7 +1991,7 @@ input, select, textarea {
 			}
 
 			table.default tfoot {
-				border-top: solid 1px #D2D7DC;
+				border-top: solid 1px #ffffff;
 			}
 
 /* Button */
@@ -2022,7 +2022,7 @@ input, select, textarea {
 		button:hover,
 		.button:hover {
 			color: #58f36d;
-			border-color: rgba(243, 88, 88, 0.5);
+			border-color: #ffffff;
 		}
 
 /* Icons */
@@ -2088,18 +2088,18 @@ input, select, textarea {
 			left: -1000%;
 			top: 0;
 			z-index: 1;
-			box-shadow: inset 0px 0px 0px 1px #e8e8e8;
-			background: #f6f8fb url("images/image-wrapper.svg");
+			box-shadow: inset 0px 0px 0px 1px #ffffff;
+			background: #ffffff url("images/image-wrapper.svg");
 		}
 
 	#header-wrapper {
 		position: relative;
 		padding: 4em 0 2em 0;
 		background-image: url("images/header.svg");
-		background-image: url("images/overlay.png"), url("images/header.svg"), -moz-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), -webkit-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), -ms-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), -moz-linear-gradient(75deg, #58f36d 15%, #036f11 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), -webkit-linear-gradient(75deg, #58f36d 15%, #036f11 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), -ms-linear-gradient(75deg, #58f36d 15%, #036f11 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), linear-gradient(75deg, #58f36d 15%, #036f11 55%);
 		background-color: #89f093;
 		background-size: 100% 620%;
 		background-size: 128px 128px, 100% 620%, auto;
