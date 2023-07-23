@@ -2301,7 +2301,7 @@ input, select, textarea {
 		}
 
 		#hero .button {
-			background: #fff;
+			background: #000000;
 			border-color: rgba(255, 255, 255, 0);
 			color: #f08c89;
 			font-size: 1.25em;
