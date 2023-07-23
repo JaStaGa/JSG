@@ -1943,19 +1943,19 @@ input, select, textarea {
 	}
 
 	form ::-webkit-input-placeholder {
-		color: #555 !important;
+		color: #7f7f7f !important;
 	}
 
 	form :-moz-placeholder {
-		color: #555 !important;
+		color: #7f7f7f !important;
 	}
 
 	form ::-moz-placeholder {
-		color: #555 !important;
+		color: #7f7f7f !important;
 	}
 
 	form :-ms-input-placeholder {
-		color: #555 !important;
+		color: #7f7f7f !important;
 	}
 
 	form ::-moz-focus-inner {
@@ -2065,7 +2065,7 @@ input, select, textarea {
 
 	.wrapper {
 		position: relative;
-		background: #fff;
+		background: #000000;
 		overflow-x: hidden;
 		padding: 6em 0 6em 0;
 	}
