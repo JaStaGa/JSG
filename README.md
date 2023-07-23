@@ -1,5 +1,9 @@
 Time Stamp Reflections:
 
+7/23/23 11:02am
+
+I always find myself doing the most extracurricular work WHILE I am working for a job. I've been at NYSC since 6:45am, and will be here until 5pm. I really appreciate this time in my life because although I have been "busy" with two jobs, I still have so much free time to spend time on my own personal interests.
+
 7/21/23 9:18pm
 
 Today I initialized my website. I had work at Eastern Bank from 8am to 3:30pm and I'm now at New York Sports Club working my 4-10pm shift. Lately I have been very hungry for success, but this constantly brings me back to the little project experience I have under my belt. I hope today is the start of something great, and gives me all the more motivation to complete work for my own good. If the future me is looking back at this message, here's a short summary of my life currently:
