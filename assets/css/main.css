@@ -3,6 +3,8 @@ f35858 = 5862f3
 f08c89 = 8990f0
 FF7088 = 7270ff
 F2B69D = a39df2
+c2c7cc = 8c9094
+d2d7dc = 888a8d
 */
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600");
@@ -178,11 +180,11 @@ input, select, textarea {
 
 	hr {
 		border: 0;
-		border-top: solid 1px #c2c7cc;
+		border-top: solid 1px #8c9094;
 	}
 
 	blockquote {
-		border-left: solid 0.5em #c2c7cc;
+		border-left: solid 0.5em #8c9094;
 		padding: 1em 0 1em 2em;
 		font-style: italic;
 	}
@@ -1849,7 +1851,7 @@ input, select, textarea {
 	}
 
 		ul.divided li {
-			border-top: solid 1px #d2d7dc;
+			border-top: solid 1px #888a8d;
 			padding-top: 2em;
 			margin-top: 2em;
 			padding-left: 0;
@@ -1893,7 +1895,7 @@ input, select, textarea {
 
 		ul.menu li {
 			display: inline-block;
-			border-left: solid 1px #d2d7dc;
+			border-left: solid 1px #888a8d;
 			padding-left: 1em;
 			margin-left: 1em;
 		}
@@ -1929,7 +1931,7 @@ input, select, textarea {
 		-webkit-appearance: none;
 		display: block;
 		background: #f9fbfe;
-		border: solid 1px #d2d7dc;
+		border: solid 1px #888a8d;
 		border-radius: 0.35em;
 		width: 100%;
 		line-height: 1.5em;
@@ -1979,7 +1981,7 @@ input, select, textarea {
 		}
 
 			table.default tbody tr {
-				border-top: solid 1px #D2D7DC;
+				border-top: solid 1px #888a8d;
 			}
 
 				table.default tbody tr:nth-child(2n+1) {
@@ -1997,7 +1999,7 @@ input, select, textarea {
 			}
 
 			table.default tfoot {
-				border-top: solid 1px #D2D7DC;
+				border-top: solid 1px #888a8d;
 			}
 
 /* Button */
@@ -2015,7 +2017,7 @@ input, select, textarea {
 		color: inherit;
 		background: none;
 		text-decoration: none;
-		border: solid 1px #c2c7cc;
+		border: solid 1px #8c9094;
 		border-radius: 0.35em;
 		padding: 0.8em 2em 0.8em 2em;
 		cursor: pointer;
@@ -2130,7 +2132,7 @@ input, select, textarea {
 	#footer-wrapper {
 		-webkit-transform: translate3d(0, 0, 0);
 		position: relative;
-		border-top: solid 1px #c2c7cc;
+		border-top: solid 1px #8c9094;
 		padding: 6em 0 6em 0;
 		background-image: url("images/overlay.png"), url("images/footer.svg");
 		background-size: 128px 128px,				100% 100%;
@@ -2370,7 +2372,7 @@ input, select, textarea {
 /* Sidebar */
 
 	#sidebar section {
-		border-top: solid 1px #d2d7dc;
+		border-top: solid 1px #888a8d;
 		margin-top: 3em;
 		padding-top: 3em;
 	}
@@ -2398,7 +2400,7 @@ input, select, textarea {
 		position: relative;
 		z-index: 1;
 		text-align: center;
-		border-top: solid 1px #d2d7dc;
+		border-top: solid 1px #888a8d;
 		color: #a2a7ac;
 		padding-top: 4em;
 		margin-top: 6em;
@@ -2748,7 +2750,7 @@ input, select, textarea {
 			}
 
 				#footer ul.divided li:first-child {
-					border-top: solid 1px #d2d7dc;
+					border-top: solid 1px #888a8d;
 					padding-top: 0.75em;
 					margin-top: 0.75em;
 				}
