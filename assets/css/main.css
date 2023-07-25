@@ -87,7 +87,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #000000;
+		background: #f5f7fa;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 300;
 		color: #52575c;
@@ -145,7 +145,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #00FF00;
+			color: #f35858;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -220,7 +220,7 @@ input, select, textarea {
 
 		header > p {
 			display: block;
-			color: #00FF00;
+			color: #f35858;
 			padding: 0.75em 0 1em 0;
 			font-size: 1.5em;
 			line-height: 1.5em;
@@ -1943,19 +1943,19 @@ input, select, textarea {
 	}
 
 	form ::-webkit-input-placeholder {
-		color: #7f7f7f !important;
+		color: #555 !important;
 	}
 
 	form :-moz-placeholder {
-		color: #7f7f7f !important;
+		color: #555 !important;
 	}
 
 	form ::-moz-placeholder {
-		color: #7f7f7f !important;
+		color: #555 !important;
 	}
 
 	form :-ms-input-placeholder {
-		color: #7f7f7f !important;
+		color: #555 !important;
 	}
 
 	form ::-moz-focus-inner {
@@ -2021,7 +2021,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			color: #00FF00;
+			color: #f35858;
 			border-color: rgba(243, 88, 88, 0.5);
 		}
 
@@ -2065,7 +2065,7 @@ input, select, textarea {
 
 	.wrapper {
 		position: relative;
-		background: #000000;
+		background: #fff;
 		overflow-x: hidden;
 		padding: 6em 0 6em 0;
 	}
@@ -2096,11 +2096,11 @@ input, select, textarea {
 		position: relative;
 		padding: 4em 0 2em 0;
 		background-image: url("images/header.svg");
-		background-image: url("images/overlay.png"), url("images/header.svg"), -moz-linear-gradient(75deg, #00b300 15%, #52f952 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), -webkit-linear-gradient(75deg, #00b300 15%, #52f952 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), -ms-linear-gradient(75deg, #00b300 15%, #52f952 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), linear-gradient(75deg, #00b300 15%, #52f952 55%);
-		background-color: #00bfff;
+		background-image: url("images/overlay.png"), url("images/header.svg"), -moz-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), -webkit-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), -ms-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
+		background-color: #f08c89;
 		background-size: 100% 620%;
 		background-size: 128px 128px, 100% 620%, auto;
 		background-repeat: repeat, no-repeat, no-repeat;
@@ -2241,7 +2241,7 @@ input, select, textarea {
 			}
 
 			.dropotron li.active > a, .dropotron li.active > span {
-				color: #00FF00;
+				color: #f35858;
 			}
 
 		.dropotron.level-0 {
@@ -2301,7 +2301,7 @@ input, select, textarea {
 		}
 
 		#hero .button {
-			background: #000000;
+			background: #fff;
 			border-color: rgba(255, 255, 255, 0);
 			color: #f08c89;
 			font-size: 1.25em;
