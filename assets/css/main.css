@@ -2324,10 +2324,10 @@ input, select, textarea {
 		}
 
 		#hero .button {
-			background: #000000;
-			background: #3cff00;
+			background: #ff0000;
+			background: #888a8d;
 			border-color: rgba(255, 255, 255, 0);
-			color: #ff0000;
+			color: #000000;
 			font-size: 1.25em;
 		}
 
