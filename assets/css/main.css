@@ -2306,7 +2306,7 @@ input, select, textarea {
 		#hero h2 {
 			color: #888a8d;
 			color: #888a8d;
-			font-size: 3em;
+			font-size: 4em;
 		}
 
 		#hero strong {
@@ -2327,7 +2327,7 @@ input, select, textarea {
 			background: #888a8d;
 			background: #888a8d;
 			border-color: rgba(255, 255, 255, 0);
-			color: #8990f0;
+			color: #ff0000;
 			font-size: 1.25em;
 		}
 
@@ -2346,11 +2346,11 @@ input, select, textarea {
 		#hero a {
 			color: #888a8d;
 			border-color: #888a8d;
-			border-color: rgba(255, 255, 255, 0.5);
+			border-color: #888a8d;
 		}
 
 			#hero a:hover {
-				border-color: rgba(255, 255, 255, 0);
+				border-color: rgb(255, 255, 255);
 			}
 
 /* Promo */
