@@ -125,7 +125,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #5862f3;
+		color: #00ff0d;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -229,7 +229,7 @@ input, select, textarea {
 
 		header > p {
 			display: block;
-			color: #5862f3;
+			color: #00ff0d;
 			padding: 0.75em 0 1em 0;
 			font-size: 1.5em;
 			line-height: 1.5em;
@@ -1877,7 +1877,7 @@ input, select, textarea {
 
 			ul.icons li:before {
 				display: inline-block;
-				color: #888a8d;
+				color: #78ff7f;
 				background: #61666b;
 				width: 2.5em;
 				height: 2.5em;
@@ -2106,10 +2106,10 @@ input, select, textarea {
 		position: relative;
 		padding: 4em 0 2em 0;
 		background-image: url("images/header.svg");
-		background-image: url("images/overlay.png"), url("images/header.svg"), -moz-linear-gradient(75deg, #7270ff 15%, #a39df2 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), -webkit-linear-gradient(75deg, #7270ff 15%, #a39df2 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), -ms-linear-gradient(75deg, #7270ff 15%, #a39df2 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), linear-gradient(75deg, #7270ff 15%, #a39df2 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), -moz-linear-gradient(75deg, #008307 15%, #78ff7f 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), -webkit-linear-gradient(75deg, #008307 15%, #78ff7f 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), -ms-linear-gradient(75deg, #008307 15%, #78ff7f 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), linear-gradient(75deg, #008307 15%, #78ff7f 55%);
 		background-color: #8990f0;
 		background-size: 100% 620%;
 		background-size: 128px 128px, 100% 620%, auto;
