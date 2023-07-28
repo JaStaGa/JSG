@@ -2297,8 +2297,8 @@ input, select, textarea {
 
 	#hero {
 		position: relative;
-		color: #ff0000;
-		color: #ff0000;
+		color: #000000;
+		color: #000000;
 		text-align: center;
 		z-index: 1;
 	}
