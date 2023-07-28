@@ -5,7 +5,7 @@ FF7088 = 7270ff
 F2B69D = a39df2
 c2c7cc = 656769
 d2d7dc = 888a8d
-fff = ff0000
+fff = 888a8d
 */
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600");
@@ -1877,7 +1877,7 @@ input, select, textarea {
 
 			ul.icons li:before {
 				display: inline-block;
-				color: #ff0000;
+				color: #888a8d;
 				background: #61666b;
 				width: 2.5em;
 				height: 2.5em;
@@ -1944,7 +1944,7 @@ input, select, textarea {
 		form input[type="password"]:focus,
 		form select:focus,
 		form textarea:focus {
-			background: #ff0000;
+			background: #888a8d;
 		}
 
 	form textarea {
@@ -2077,7 +2077,7 @@ input, select, textarea {
 <<<<<<< HEAD
 		background: #d2d7dc;
 =======
-		background: #ff0000;
+		background: #888a8d;
 >>>>>>> 2bd9e75c27a4b9ce11dd78242d3854c177341faf
 		overflow-x: hidden;
 		padding: 6em 0 6em 0;
@@ -2132,7 +2132,7 @@ input, select, textarea {
 <<<<<<< HEAD
 		color: #888a8d;
 =======
-		color: #ff0000;
+		color: #888a8d;
 >>>>>>> 2bd9e75c27a4b9ce11dd78242d3854c177341faf
 		text-align: center;
 		padding: 6em 0 6em 0;
@@ -2172,11 +2172,11 @@ input, select, textarea {
 			border-radius: 0 0 0.35em 0.35em;
 			color: #888a8d;
 =======
-			border-color: #ff0000;
+			border-color: #888a8d;
 			border-color: rgba(255, 255, 255, 0.75);
 			border-top: 0;
 			border-radius: 0 0 0.35em 0.35em;
-			color: #ff0000;
+			color: #888a8d;
 >>>>>>> 2bd9e75c27a4b9ce11dd78242d3854c177341faf
 			display: inline-block;
 			font-weight: 600;
@@ -2212,7 +2212,7 @@ input, select, textarea {
 <<<<<<< HEAD
 					color: #888a8d;
 =======
-					color: #ff0000;
+					color: #888a8d;
 >>>>>>> 2bd9e75c27a4b9ce11dd78242d3854c177341faf
 					text-decoration: none;
 					outline: 0;
@@ -2233,7 +2233,7 @@ input, select, textarea {
 <<<<<<< HEAD
 					color: #888a8d;
 =======
-					color: #ff0000;
+					color: #888a8d;
 >>>>>>> 2bd9e75c27a4b9ce11dd78242d3854c177341faf
 				}
 
@@ -2253,7 +2253,7 @@ input, select, textarea {
 <<<<<<< HEAD
 		background: #888a8d;
 =======
-		background: #ff0000;
+		background: #888a8d;
 >>>>>>> 2bd9e75c27a4b9ce11dd78242d3854c177341faf
 		line-height: 1em;
 		padding: 0.85em 0 0.85em 0;
@@ -2295,7 +2295,7 @@ input, select, textarea {
 <<<<<<< HEAD
 				border-bottom: solid 0.5em #888a8d;
 =======
-				border-bottom: solid 0.5em #ff0000;
+				border-bottom: solid 0.5em #888a8d;
 >>>>>>> 2bd9e75c27a4b9ce11dd78242d3854c177341faf
 				border-left: solid 0.5em rgba(255, 255, 255, 0);
 				border-right: solid 0.5em rgba(255, 255, 255, 0);
@@ -2321,7 +2321,7 @@ input, select, textarea {
 <<<<<<< HEAD
 		color: #888a8d;
 =======
-		color: #ff0000;
+		color: #888a8d;
 >>>>>>> 2bd9e75c27a4b9ce11dd78242d3854c177341faf
 		text-align: center;
 		z-index: 1;
@@ -2331,7 +2331,7 @@ input, select, textarea {
 <<<<<<< HEAD
 			color: #888a8d;
 =======
-			color: #ff0000;
+			color: #888a8d;
 >>>>>>> 2bd9e75c27a4b9ce11dd78242d3854c177341faf
 			font-size: 3em;
 		}
@@ -2344,7 +2344,7 @@ input, select, textarea {
 <<<<<<< HEAD
 			color: #888a8d;
 =======
-			color: #ff0000;
+			color: #888a8d;
 >>>>>>> 2bd9e75c27a4b9ce11dd78242d3854c177341faf
 		}
 
@@ -2357,7 +2357,7 @@ input, select, textarea {
 <<<<<<< HEAD
 			background: #888a8d;
 =======
-			background: #ff0000;
+			background: #888a8d;
 >>>>>>> 2bd9e75c27a4b9ce11dd78242d3854c177341faf
 			border-color: rgba(255, 255, 255, 0);
 			color: #8990f0;
@@ -2375,12 +2375,12 @@ input, select, textarea {
 			color: #888a8d;
 			border-color: #888a8d;
 =======
-				color: #ff0000;
+				color: #888a8d;
 			}
 
 		#hero a {
-			color: #ff0000;
-			border-color: #ff0000;
+			color: #888a8d;
+			border-color: #888a8d;
 >>>>>>> 2bd9e75c27a4b9ce11dd78242d3854c177341faf
 			border-color: rgba(255, 255, 255, 0.5);
 		}
@@ -2405,7 +2405,7 @@ input, select, textarea {
 <<<<<<< HEAD
 			color: #888a8d;
 =======
-			color: #ff0000;
+			color: #888a8d;
 >>>>>>> 2bd9e75c27a4b9ce11dd78242d3854c177341faf
 			display: inline-block;
 			margin-right: 1em;
@@ -2416,7 +2416,7 @@ input, select, textarea {
 <<<<<<< HEAD
 			background: #888a8d;
 =======
-			background: #ff0000;
+			background: #888a8d;
 >>>>>>> 2bd9e75c27a4b9ce11dd78242d3854c177341faf
 			border-color: rgba(255, 255, 255, 0);
 			color: #27636B;
@@ -2429,7 +2429,7 @@ input, select, textarea {
 <<<<<<< HEAD
 				color: #888a8d;
 =======
-				color: #ff0000;
+				color: #888a8d;
 >>>>>>> 2bd9e75c27a4b9ce11dd78242d3854c177341faf
 			}
 
@@ -2912,7 +2912,7 @@ input, select, textarea {
 <<<<<<< HEAD
 						color: #888a8d;
 =======
-						color: #ff0000;
+						color: #888a8d;
 >>>>>>> 2bd9e75c27a4b9ce11dd78242d3854c177341faf
 						content: '\f0c9';
 						display: block;
@@ -2973,7 +2973,7 @@ input, select, textarea {
 <<<<<<< HEAD
 						color: #888a8d;
 =======
-						color: #ff0000;
+						color: #888a8d;
 >>>>>>> 2bd9e75c27a4b9ce11dd78242d3854c177341faf
 						font-weight: 400;
 					}
@@ -3007,7 +3007,7 @@ input, select, textarea {
 <<<<<<< HEAD
 					color: #888a8d;
 =======
-					color: #ff0000;
+					color: #888a8d;
 >>>>>>> 2bd9e75c27a4b9ce11dd78242d3854c177341faf
 				}
 
