@@ -125,7 +125,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #52575c;
+		color: #000000;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2168,7 +2168,7 @@ input, select, textarea {
 			border-color: rgba(255, 255, 255, 0.75);
 			border-top: 0;
 			border-radius: 0 0 0.35em 0.35em;
-			color: #888a8d;
+			color: #000000;
 			display: inline-block;
 			font-weight: 600;
 			letter-spacing: 3px;
@@ -2426,7 +2426,7 @@ input, select, textarea {
 		z-index: 1;
 		text-align: center;
 		border-top: solid 1px #888a8d;
-		color: #a2a7ac;
+		color: #000000;
 		padding-top: 4em;
 		margin-top: 6em;
 	}
