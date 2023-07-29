@@ -2126,8 +2126,8 @@ input, select, textarea {
 		background-image: url("images/overlay.png"), url("../../images/promo.jpg");
 		background-size: 192px 192px, cover;
 		background-position: top left, center center;
-		color: #888a8d;
-		color: #888a8d;
+		color: #000000;
+		color: #000000;
 		text-align: center;
 		padding: 6em 0 6em 0;
 	}
