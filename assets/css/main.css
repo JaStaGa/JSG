@@ -96,10 +96,10 @@ input, select, textarea {
 	}
 
 	body {
-		background: #888a8d;
+		background: #000000;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 300;
-		color: #000000;
+		color: #ffffff;
 		line-height: 1.75em;
 		font-size: 14pt;
 	}
