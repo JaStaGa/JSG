@@ -2168,7 +2168,7 @@ input, select, textarea {
 			border-color: rgba(255, 255, 255, 0.75);
 			border-top: 0;
 			border-radius: 0 0 0.35em 0.35em;
-			color: #000000;
+			color: #ffffff;
 			display: inline-block;
 			font-weight: 600;
 			letter-spacing: 3px;
@@ -2297,15 +2297,15 @@ input, select, textarea {
 
 	#hero {
 		position: relative;
-		color: #000000;
+		color: #ffffff;
 		color: #ffffff;
 		text-align: center;
 		z-index: 1;
 	}
 
 		#hero h2 {
-			color: #000000;
-			color: #000000;
+			color: #ffffff;
+			color: #ffffff;
 			font-size: 4em;
 		}
 
@@ -2324,10 +2324,10 @@ input, select, textarea {
 		}
 
 		#hero .button {
-			background: #888a8d;
-			background: #888a8d;
-			border-color: rgba(255, 255, 255, 0);
-			color: #000000;
+			background: #ffffff29;
+			background: #ffffff29;
+			border-color: rgb(255, 255, 255);
+			color: #ffffff;
 			font-size: 1.25em;
 		}
 
